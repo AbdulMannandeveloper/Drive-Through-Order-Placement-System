@@ -1,1 +1,2 @@
 # Drive-Through-Order-Placement-System
+This system is basically for drive through where order is placed manually by speaking. This system is designed to place the order by selecting items from a menu on screen and then one can print the bill and also the data is then stored in a file that can be accessed by other system so that restaurant management can access the order placed by the client and the order can be delievered accordingly as well.
